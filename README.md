@@ -1,1 +1,2 @@
 # semantinc_domain_prediction
+In this project, Sci-Kit Learn was employed to develop a predictive model capable of determining the semantic domain of a word. The prediction was based on various factors, including the word type (noun, verb, etc.), lemma, normalized form, and other relevant features. The model underwent training using Macula data, which was appropriately divided into training, verification, and testing sets to ensure robust performance evaluation. This approach leverages machine learning techniques to capture and generalize patterns from the data.
